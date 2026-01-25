@@ -68,7 +68,7 @@ a:hover { text-decoration: underline; }
 }
 
 .grid {
-  column-count: 3;
+  column-count: 2;
   column-gap: 18px;
   padding-top: 8px;
 }
