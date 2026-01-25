@@ -68,9 +68,8 @@ a:hover { text-decoration: underline; }
 }
 
 .grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 18px;
+  column-count: 3;
+  column-gap: 18px;
   padding-top: 8px;
 }
 
@@ -83,12 +82,14 @@ a:hover { text-decoration: underline; }
 
 .card {
   display: block;
+  break-inside: avoid;
+  margin-bottom: 18px;
 }
 
 .thumb {
   width: 100%;
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   background: #f2f2f2;
   display: block;
 }
