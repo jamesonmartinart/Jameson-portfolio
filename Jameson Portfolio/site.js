@@ -189,7 +189,6 @@ if (grid) {
     return `
       <a class="card" href="/project.html?slug=${encodeURIComponent(p.slug)}" aria-label="${escapeHtml(p.title)}">
         <img class="thumb" src="${p.thumb}" alt="${escapeHtml(p.title)}" loading="lazy" />
-        <div class="caption">${escapeHtml(p.title)}</div>
       </a>
     `;
   }).join("");
