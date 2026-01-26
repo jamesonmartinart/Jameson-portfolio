@@ -82,6 +82,14 @@ const WORK = [
     images: ["/assets/work/2025-ss-vinyl-layout-mockup.jpg"],
     description: ""
   },
+  {
+    title: "Neighbourhood — Merch Mockup",
+    slug: "2026-neighbourhood-merch-mockup",
+    year: "2026",
+    thumb: "/assets/work/neighbourhood-merch-mockup-thumb.jpg",
+    images: ["/assets/work/neighbourhood-merch-mockup.jpg"],
+    description: ""
+  },
 
   // Hot Creations covers (1–6)
   {
