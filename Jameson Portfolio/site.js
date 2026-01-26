@@ -168,7 +168,7 @@ projectEl.innerHTML = `
   <div class="project-media">
     ${p.images.map(src => `<img src="${src}" alt="${escapeHtml(p.title)}" loading="lazy" />`).join("")}
     <div class="project-caption">
-      <h1>${escapeHtml(p.title)}</h1>
+     <h1>${escapeHtml(p.title)}${p.shopUrl ? ` <a class="shop-link" href="${p.shopUrl}" target="_blank" rel="noopener">shop</a>.` : ""}</h1>
       <p class="meta">${escapeHtml(p.year || "")}</p>
     </div>
   </div>
