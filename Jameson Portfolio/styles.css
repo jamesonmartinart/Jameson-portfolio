@@ -40,9 +40,9 @@ a:hover { text-decoration: underline; }
 
 .brand { 
   font-family: "Righteous", "Open Sans", sans-serif; 
-  font-weight: 420; 
-  letter-spacing: 0.025px;
-  font-size: 25px;
+  font-weight: 440; 
+  letter-spacing: -0.1px;
+  font-size: 28px;
   text-transform: uppercase;
 }
 
