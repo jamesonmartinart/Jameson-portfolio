@@ -144,14 +144,6 @@ const WORK = [
   // Thumbs-only items (no full-size image shown in your file list)
   // These will still work (they’ll just open the thumb as the project image).
   {
-    title: "Hot Creations — Cover 8 (Preview)",
-    slug: "hot-creation-cover-8",
-    year: "2025",
-    thumb: "/assets/work/hot-creation-cover-8-thumb.jpg",
-    images: ["/assets/work/hot-creation-cover-8-thumb.jpg"],
-    description: ""
-  },
-  {
     title: "Hot Creations — Cover 13 (Preview)",
     slug: "hot-creation-cover-13",
     year: "2025",
