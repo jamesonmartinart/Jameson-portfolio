@@ -48,7 +48,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Free poster. Available in the shop.",
+    title: "Free poster. Available in the",
     slug: "2025-free-poster-personal",
     year: "2025",
     thumb: "/assets/work/free-poster-personal-thumb.jpg",
