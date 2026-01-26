@@ -225,13 +225,12 @@ a:hover { text-decoration: underline; }
 }
 
 .project-caption{
-  position: absolute;
-  left: 50%;
-  bottom: 14px;
-  transform: translateX(-50%);
+  position: static;
+  transform: none;
   text-align: center;
   width: 100%;
-  pointer-events: none;
+  margin-top: 14px;
+  pointer-events: auto;
 }
 
 .project-caption h1{
