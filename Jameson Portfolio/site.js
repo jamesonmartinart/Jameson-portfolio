@@ -164,12 +164,16 @@ if (projectEl) {
   const p = WORK.find(x => x.slug === slug) || WORK[0];
 
   document.title = `Jameson Martin — ${p.title}`;
-  projectEl.innerHTML = `
-    <h1>${escapeHtml(p.title)}</h1>
-    <p class="meta">${escapeHtml(p.year || "")}</p>
+projectEl.innerHTML = `
+  <div class="project-media">
     ${p.images.map(src => `<img src="${src}" alt="${escapeHtml(p.title)}" loading="lazy" />`).join("")}
-    ${p.description ? `<p class="meta">${escapeHtml(p.description)}</p>` : ""}
-  `;
+    <div class="project-caption">
+      <h1>${escapeHtml(p.title)}</h1>
+      <p class="meta">${escapeHtml(p.year || "")}</p>
+    </div>
+  </div>
+  ${p.description ? `<p class="meta">${escapeHtml(p.description)}</p>` : ""}
+`;
 }
 
 function escapeHtml(str) {
