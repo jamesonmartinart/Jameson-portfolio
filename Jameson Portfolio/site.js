@@ -108,7 +108,8 @@ const WORK = [
     description: ""
   },
   {
-    title: "Just Say No poster. Available in the shop.",
+    title: "Just Say No poster. Available in the",
+    shopUrl: "https://shop.jamesonmartinart.com",
     slug: "2026-just-say-no-red-pink",
     year: "2026",
     thumb: "/assets/work/just-say-no-poster-personal-thumb-4.jpg",
