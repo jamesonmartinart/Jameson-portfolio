@@ -8,19 +8,26 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header class="site-header">
-    <nav class="nav">
-      <a class="brand" href="index.html">Jameson Martin</a>
-      <div class="nav-links">
-        <a class="active" href="index.html">Work</a>
-        <a href="about.html">About</a>
-        <a href="https://shop.jamesonmartinart.com">Shop</a>
-        <a class="cart" href="https://shop.jamesonmartinart.com/cart" aria-label="Cart">
-          <span>0</span>
-        </a>
-      </div>
-    </nav>
-  </header>
+<header class="site-header">
+  <nav class="nav">
+    <a class="brand" href="index.html">Jameson Martin</a>
+
+    <button class="nav-toggle" type="button" aria-controls="navLinks" aria-expanded="false">
+      <span class="sr-only">Menu</span>
+      ☰
+    </button>
+
+    <div class="nav-links" id="navLinks">
+      <a class="active" href="index.html">Work</a>
+      <a href="about.html">About</a>
+      <a href="https://shop.jamesonmartinart.com">Shop</a>
+      <a href="https://instagram.com/_jameaux_" target="_blank" rel="noopener">Instagram</a>
+      <a class="cart" href="https://shop.jamesonmartinart.com/cart" aria-label="Cart">
+        <span>0</span>
+      </a>
+    </div>
+  </nav>
+</header>
 
   <main class="wrap">
     <section class="grid" id="workGrid" aria-label="Work grid"></section>
