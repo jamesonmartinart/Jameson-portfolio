@@ -38,7 +38,13 @@ a:hover { text-decoration: underline; }
   gap: 12px;
 }
 
-.brand { font-family: "Righteous", "Open Sans", sans-serif; font-weight: 400; letter-spacing: 0.2px; }
+.brand { 
+  font-family: "Righteous", "Open Sans", sans-serif; 
+  font-weight: 400; 
+  letter-spacing: 0.2px;
+  font-size: 28px;
+  text-transform: uppercase;
+}
 
 .nav-links {
   display: flex;
