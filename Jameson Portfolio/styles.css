@@ -245,3 +245,9 @@ a:hover { text-decoration: underline; }
   font-size: 13px;
   color: var(--muted);
 }
+
+.shop-link{
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  pointer-events: auto;
+}
