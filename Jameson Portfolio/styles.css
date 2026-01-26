@@ -41,7 +41,7 @@ a:hover { text-decoration: underline; }
 .brand { 
   font-family: "Righteous", "Open Sans", sans-serif; 
   font-weight: 400; 
-  letter-spacing: 0.2px;
+  letter-spacing: 0.1px;
   font-size: 28px;
   text-transform: uppercase;
 }
