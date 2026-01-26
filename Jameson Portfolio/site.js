@@ -93,7 +93,6 @@ const WORK = [
     year: "2024",
     thumb: "/assets/work/you-are-now-poster-personal.jpg",
     images: [
-      "/assets/work/2024-you-are-now-personal.jpg",
       "/assets/work/you-are-now-poster-personal.jpg"
     ],
     description: ""
