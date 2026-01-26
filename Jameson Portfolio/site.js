@@ -89,7 +89,8 @@ const WORK = [
     description: ""
   },
   {
-    title: "You Are Now poster. Available in the shop.",
+    title: "You Are Now poster. Available in the",
+    shopUrl: "https://shop.jamesonmartinart.com",
     slug: "2024-you-are-now-personal",
     year: "2024",
     thumb: "/assets/work/you-are-now-poster-personal.jpg",
