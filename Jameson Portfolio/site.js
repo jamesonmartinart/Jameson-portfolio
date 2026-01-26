@@ -141,33 +141,6 @@ const WORK = [
     description: ""
   },
 
-  // Thumbs-only items (no full-size image shown in your file list)
-  // These will still work (they’ll just open the thumb as the project image).
-  {
-    title: "Hot Creations — Cover 13 (Preview)",
-    slug: "hot-creation-cover-13",
-    year: "2025",
-    thumb: "/assets/work/hot-creation-cover-13-thumb.jpg",
-    images: ["/assets/work/hot-creation-cover-13-thumb.jpg"],
-    description: ""
-  },
-  {
-    title: "Hot Creations — Cover 14 (Preview)",
-    slug: "hot-creation-cover-14",
-    year: "2025",
-    thumb: "/assets/work/hot-creation-cover-14-thumb.jpg",
-    images: ["/assets/work/hot-creation-cover-14-thumb.jpg"],
-    description: ""
-  },
-  {
-    title: "Hot Creations — Cover 15 (Preview)",
-    slug: "hot-creation-cover-15",
-    year: "2025",
-    thumb: "/assets/work/hot-creation-cover-15-thumb.jpg",
-    images: ["/assets/work/hot-creation-cover-15-thumb.jpg"],
-    description: ""
-  },
-
   // 2026
   {
     title: "Just Say No — Poster (Personal)",
