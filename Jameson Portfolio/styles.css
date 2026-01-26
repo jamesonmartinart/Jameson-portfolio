@@ -173,3 +173,33 @@ a:hover { text-decoration: underline; }
 }
 
 .footer-row a { color: var(--muted); }
+
+/* Hamburger button (mobile) */
+.nav-toggle{
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 28px; /* controls ☰ size */
+  line-height: 1;
+}
+
+/* hide screen-reader-only text */
+.sr-only{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
