@@ -154,7 +154,7 @@ a:hover { text-decoration: underline; }
 
 .project img {
   width: 100%;
-  max-width: 900px;
+  max-width: 720px;
   height: auto;
   display: block;
   margin: 0 auto 14px;
