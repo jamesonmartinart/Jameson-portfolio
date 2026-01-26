@@ -1,5 +1,4 @@
 const WORK = [
-  // Posters / Personal / Spec
   {
     title: "Tour poster for Destroyer - Fall 2024",
     slug: "2024-destroyer-poster",
@@ -17,43 +16,19 @@ const WORK = [
     description: ""
   },
   {
-    title: "You Are Now poster. Available in the shop.",
-    slug: "2024-you-are-now-personal",
-    year: "2024",
-    // No thumb file shown for this one, so we use one of the images as the thumb
-    thumb: "/assets/work/you-are-now-poster-personal.jpg",
-    images: [
-      "/assets/work/2024-you-are-now-personal.jpg",
-      "/assets/work/you-are-now-poster-personal.jpg"
-    ],
-    description: ""
-  },
-
-  // Music / Album art / Mockups
-  {
-    title: "Cover art for Everydayness by Darksoft",
-    slug: "2025-darksoft-cassette-tape-mockup",
+    title: "Cover art series created for Hot Creations’ digital label releases",
+    slug: "2025-hot-creations-cover-3",
     year: "2025",
-    thumb: "/assets/work/darksoft-mockup-thumb.jpg",
-    images: ["/assets/work/2025-darksoft-cassette-tape-mockup.jpg"],
+    thumb: "/assets/work/2025-hot-creations-cover-3.jpg",
+    images: ["/assets/work/2025-hot-creations-cover-3.jpg"],
     description: ""
   },
   {
-    title: "Cover design for Stupid Love Songs by Eric Zayne",
-    slug: "2025-eric-zayne-album-art",
+    title: "Cover art series created for Hot Creations’ digital label releases",
+    slug: "2025-hot-creations-cover-6",
     year: "2025",
-    thumb: "/assets/work/eric-zayne-single-art-thumb.jpg",
-    images: ["/assets/work/2025-eric-zayne-album-art.jpg"],
-    description: ""
-  },
-
-  // Posters / Personal
-  {
-    title: "Free poster. Available in the shop.",
-    slug: "2025-free-poster-personal",
-    year: "2025",
-    thumb: "/assets/work/free-poster-personal-thumb.jpg",
-    images: ["/assets/work/2025-free-poster-personal.jpg"],
+    thumb: "/assets/work/2025-hot-creations-cover-6-thumb.jpg",
+    images: ["/assets/work/2025-hot-creations-cover-6.jpg"],
     description: ""
   },
   {
@@ -62,16 +37,6 @@ const WORK = [
     year: "2025",
     thumb: "/assets/work/sungazer-poster-personal-thumb.jpg",
     images: ["/assets/work/2025-sungazer-poster.jpg"],
-    description: ""
-  },
-
-  // Merch / Layout
-  {
-    title: "Merch design for Paradise in the City Festival - Summer 2025",
-    slug: "2025-paradise-merch-mockup",
-    year: "2025",
-    thumb: "/assets/work/paradise-festival-merch-thumb.jpg",
-    images: ["/assets/work/2025-paradise-merch-mockup.jpg"],
     description: ""
   },
   {
@@ -83,37 +48,19 @@ const WORK = [
     description: ""
   },
   {
-    title: "Merch design for The Neighbourhood",
-    slug: "2026-neighbourhood-merch-mockup",
-    year: "2026",
-    thumb: "/assets/work/neighbourhood-merch-mockup-thumb.jpg",
-    images: ["/assets/work/neighbourhood-merch-mockup.jpg"],
-    description: ""
-  },
-
-  // Hot Creations covers (1–6)
-  {
-    title: "Cover art series created for Hot Creations’ digital label releases",
-    slug: "2025-hot-creations-cover-1",
+    title: "Free poster. Available in the shop.",
+    slug: "2025-free-poster-personal",
     year: "2025",
-    thumb: "/assets/work/2025-hot-creations-cover-1.jpg",
-    images: ["/assets/work/2025-hot-creations-cover-1.jpg"],
+    thumb: "/assets/work/free-poster-personal-thumb.jpg",
+    images: ["/assets/work/2025-free-poster-personal.jpg"],
     description: ""
   },
   {
-    title: "Cover art series created for Hot Creations’ digital label releases",
-    slug: "2025-hot-creations-cover-2",
+    title: "Merch design for Paradise in the City Festival - Summer 2025",
+    slug: "2025-paradise-merch-mockup",
     year: "2025",
-    thumb: "/assets/work/2025-hot-creations-cover-2.jpg",
-    images: ["/assets/work/2025-hot-creations-cover-2.jpg"],
-    description: ""
-  },
-  {
-    title: "Cover art series created for Hot Creations’ digital label releases",
-    slug: "2025-hot-creations-cover-3",
-    year: "2025",
-    thumb: "/assets/work/2025-hot-creations-cover-3.jpg",
-    images: ["/assets/work/2025-hot-creations-cover-3.jpg"],
+    thumb: "/assets/work/paradise-festival-merch-thumb.jpg",
+    images: ["/assets/work/2025-paradise-merch-mockup.jpg"],
     description: ""
   },
   {
@@ -126,22 +73,39 @@ const WORK = [
   },
   {
     title: "Cover art series created for Hot Creations’ digital label releases",
-    slug: "2025-hot-creations-cover-5",
+    slug: "2025-hot-creations-cover-2",
     year: "2025",
-    thumb: "/assets/work/2025-hot-creations-cover-5.jpg",
-    images: ["/assets/work/2025-hot-creations-cover-5.jpg"],
+    thumb: "/assets/work/2025-hot-creations-cover-2.jpg",
+    images: ["/assets/work/2025-hot-creations-cover-2.jpg"],
     description: ""
   },
   {
-    title: "Cover art series created for Hot Creations’ digital label releases",
-    slug: "2025-hot-creations-cover-6",
-    year: "2025",
-    thumb: "/assets/work/2025-hot-creations-cover-6-thumb.jpg",
-    images: ["/assets/work/2025-hot-creations-cover-6.jpg"],
+    title: "Merch design for The Neighbourhood",
+    slug: "2026-neighbourhood-merch-mockup",
+    year: "2026",
+    thumb: "/assets/work/neighbourhood-merch-mockup-thumb.jpg",
+    images: ["/assets/work/neighbourhood-merch-mockup.jpg"],
     description: ""
   },
-
-  // 2026
+  {
+    title: "You Are Now poster. Available in the shop.",
+    slug: "2024-you-are-now-personal",
+    year: "2024",
+    thumb: "/assets/work/you-are-now-poster-personal.jpg",
+    images: [
+      "/assets/work/2024-you-are-now-personal.jpg",
+      "/assets/work/you-are-now-poster-personal.jpg"
+    ],
+    description: ""
+  },
+  {
+    title: "Cover art for Everydayness by Darksoft",
+    slug: "2025-darksoft-cassette-tape-mockup",
+    year: "2025",
+    thumb: "/assets/work/darksoft-mockup-thumb.jpg",
+    images: ["/assets/work/2025-darksoft-cassette-tape-mockup.jpg"],
+    description: ""
+  },
   {
     title: "Just Say No poster. Available in the shop.",
     slug: "2026-just-say-no-red-pink",
@@ -149,8 +113,33 @@ const WORK = [
     thumb: "/assets/work/just-say-no-poster-personal-thumb-4.jpg",
     images: ["/assets/work/2026-just-say-no-red-pink.jpg"],
     description: ""
+  },
+  {
+    title: "Cover art series created for Hot Creations’ digital label releases",
+    slug: "2025-hot-creations-cover-1",
+    year: "2025",
+    thumb: "/assets/work/2025-hot-creations-cover-1.jpg",
+    images: ["/assets/work/2025-hot-creations-cover-1.jpg"],
+    description: ""
+  },
+  {
+    title: "Cover design for Stupid Love Songs by Eric Zayne",
+    slug: "2025-eric-zayne-album-art",
+    year: "2025",
+    thumb: "/assets/work/eric-zayne-single-art-thumb.jpg",
+    images: ["/assets/work/2025-eric-zayne-album-art.jpg"],
+    description: ""
+  },
+  {
+    title: "Cover art series created for Hot Creations’ digital label releases",
+    slug: "2025-hot-creations-cover-5",
+    year: "2025",
+    thumb: "/assets/work/2025-hot-creations-cover-5.jpg",
+    images: ["/assets/work/2025-hot-creations-cover-5.jpg"],
+    description: ""
   }
 ];
+
 
 // Footer year
 document.querySelectorAll("#year").forEach(el => el.textContent = new Date().getFullYear());
