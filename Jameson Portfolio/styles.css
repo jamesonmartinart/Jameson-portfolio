@@ -294,3 +294,6 @@ a:hover { text-decoration: underline; }
   height: 22px;
   display: block;
 }
+@media (max-width: 560px){
+  .grid{ column-count: 1; }
+}
