@@ -1,7 +1,7 @@
 const WORK = [
   // Posters / Personal / Spec
   {
-    title: "Destroyer — Poster (Personal)",
+    title: "Tour poster for Destroyer - Fall 2024",
     slug: "2024-destroyer-poster",
     year: "2024",
     thumb: "/assets/work/destroyer-poster-thumb.jpg",
@@ -9,7 +9,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "The War On Drugs — Poster (Personal / Spec)",
+    title: "The War On Drugs poster - personal project",
     slug: "2024-war-on-drugs-poster",
     year: "2024",
     thumb: "/assets/work/war-on-drugs-poster-personal-thumb.jpg",
@@ -17,7 +17,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "You Are Now — Poster (Personal)",
+    title: "You Are Now poster. Available in the shop.",
     slug: "2024-you-are-now-personal",
     year: "2024",
     // No thumb file shown for this one, so we use one of the images as the thumb
@@ -31,7 +31,7 @@ const WORK = [
 
   // Music / Album art / Mockups
   {
-    title: "Darksoft — Cassette Tape Mockup",
+    title: "Cover art for Everydayness by Darksoft",
     slug: "2025-darksoft-cassette-tape-mockup",
     year: "2025",
     thumb: "/assets/work/darksoft-mockup-thumb.jpg",
@@ -39,7 +39,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Eric Zayne — Album Art",
+    title: "Cover design for Stupid Love Songs by Eric Zayne",
     slug: "2025-eric-zayne-album-art",
     year: "2025",
     thumb: "/assets/work/eric-zayne-single-art-thumb.jpg",
@@ -49,7 +49,7 @@ const WORK = [
 
   // Posters / Personal
   {
-    title: "Free Poster — Personal",
+    title: "Free poster. Available in the shop.",
     slug: "2025-free-poster-personal",
     year: "2025",
     thumb: "/assets/work/free-poster-personal-thumb.jpg",
@@ -57,7 +57,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Sungazer — Poster",
+    title: "Tour poster for Sungazer - Summer 2024",
     slug: "2025-sungazer-poster",
     year: "2025",
     thumb: "/assets/work/sungazer-poster-personal-thumb.jpg",
@@ -67,7 +67,7 @@ const WORK = [
 
   // Merch / Layout
   {
-    title: "Paradise Festival — Merch Mockup",
+    title: "Merch design for Paradise in the City Festival - Summer 2025",
     slug: "2025-paradise-merch-mockup",
     year: "2025",
     thumb: "/assets/work/paradise-festival-merch-thumb.jpg",
@@ -75,7 +75,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Shane Sato — Vinyl Layout Mockup",
+    title: "Cover art & vinyl layout for Wavelength by Shane Sato",
     slug: "2025-ss-vinyl-layout-mockup",
     year: "2025",
     thumb: "/assets/work/shane-sato-vinyl-layout-thumb.jpg",
@@ -83,7 +83,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Neighbourhood — Merch Mockup",
+    title: "Merch design for The Neighbourhood",
     slug: "2026-neighbourhood-merch-mockup",
     year: "2026",
     thumb: "/assets/work/neighbourhood-merch-mockup-thumb.jpg",
@@ -93,7 +93,7 @@ const WORK = [
 
   // Hot Creations covers (1–6)
   {
-    title: "Hot Creations — Cover 1",
+    title: "Cover art series created for Hot Creations’ digital label releases",
     slug: "2025-hot-creations-cover-1",
     year: "2025",
     thumb: "/assets/work/2025-hot-creations-cover-1.jpg",
@@ -101,7 +101,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Hot Creations — Cover 2",
+    title: "Cover art series created for Hot Creations’ digital label releases",
     slug: "2025-hot-creations-cover-2",
     year: "2025",
     thumb: "/assets/work/2025-hot-creations-cover-2.jpg",
@@ -109,7 +109,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Hot Creations — Cover 3",
+    title: "Cover art series created for Hot Creations’ digital label releases",
     slug: "2025-hot-creations-cover-3",
     year: "2025",
     thumb: "/assets/work/2025-hot-creations-cover-3.jpg",
@@ -117,7 +117,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Hot Creations — Cover 4",
+    title: "Cover art series created for Hot Creations’ digital label releases",
     slug: "2025-hot-creations-cover-4",
     year: "2025",
     thumb: "/assets/work/2025-hot-creations-cover-4.jpg",
@@ -125,7 +125,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Hot Creations — Cover 5",
+    title: "Cover art series created for Hot Creations’ digital label releases",
     slug: "2025-hot-creations-cover-5",
     year: "2025",
     thumb: "/assets/work/2025-hot-creations-cover-5.jpg",
@@ -133,7 +133,7 @@ const WORK = [
     description: ""
   },
   {
-    title: "Hot Creations — Cover 6",
+    title: "Cover art series created for Hot Creations’ digital label releases",
     slug: "2025-hot-creations-cover-6",
     year: "2025",
     thumb: "/assets/work/2025-hot-creations-cover-6-thumb.jpg",
@@ -143,7 +143,7 @@ const WORK = [
 
   // 2026
   {
-    title: "Just Say No — Poster (Personal)",
+    title: "Just Say No poster. Available in the shop.",
     slug: "2026-just-say-no-red-pink",
     year: "2026",
     thumb: "/assets/work/just-say-no-poster-personal-thumb-4.jpg",
