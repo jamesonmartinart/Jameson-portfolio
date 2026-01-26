@@ -49,6 +49,7 @@ const WORK = [
   },
   {
     title: "Free poster. Available in the",
+    shopUrl: "https://shop.jamesonmartinart.com",
     slug: "2025-free-poster-personal",
     year: "2025",
     thumb: "/assets/work/free-poster-personal-thumb.jpg",
