@@ -250,3 +250,21 @@ a:hover { text-decoration: underline; }
   text-underline-offset: 4px;
   pointer-events: auto;
 }
+
+/* Hide hamburger on desktop */
+.nav-toggle { display: none; }
+
+/* Mobile nav */
+@media (max-width: 700px){
+  .nav-toggle { display: inline-flex; }
+  .nav-links { display: none; }
+  .nav-links.is-open { 
+    display: flex; 
+    flex-direction: column; 
+    align-items: flex-end; 
+    gap: 12px;
+    width: 100%;
+    margin-top: 12px;
+  }
+  .nav { flex-wrap: wrap; }
+}
