@@ -41,8 +41,8 @@ a:hover { text-decoration: underline; }
 .brand { 
   font-family: "Righteous", "Open Sans", sans-serif; 
   font-weight: 440; 
-  letter-spacing: -1px;
-  font-size: 28px;
+  letter-spacing: -1.5px;
+  font-size: 32px;
   text-transform: none;
 }
 
@@ -280,7 +280,7 @@ a:hover { text-decoration: underline; }
   padding: 21px 51px;
   font-size: 27px;
   font-weight: 500;
-  margin: 26px auto 30px;
+  margin: 26px auto 32px;
   width: fit-content;
 }
 
@@ -296,4 +296,15 @@ a:hover { text-decoration: underline; }
 }
 @media (max-width: 560px){
   .grid{ column-count: 1; }
+}
+
+.brand-wrap {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
+
+.brand-subtitle {
+  font-size: 0.8rem;
+  opacity: 0.8;
 }
